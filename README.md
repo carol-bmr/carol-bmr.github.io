@@ -2,7 +2,7 @@
 
 Benvenuti nel repository del mio portfolio personale, visitabile online all'indirizzo [carol-bmr.github.io](https://carol-bmr.github.io). 
 
-Questo spazio raccoglie e documenta i miei progetti di Data Analytics[cite: 3], mostrando il mio approccio metodologico: dall'estrazione del dato grezzo fino alla pulizia, all'analisi e alla visualizzazione finale.
+Questo spazio raccoglie e documenta i miei progetti di Data Analytics, mostrando il mio approccio metodologico: dall'estrazione del dato grezzo fino alla pulizia, all'analisi e alla visualizzazione finale.
 
 ## Chi Sono
 Sono una Data Analyst formatasi nel percorso intensivo in Data Analytics & AI presso EPICODE (2026), concluso con la media del 9.7/10. Il mio metodo mette al centro la qualità del dato: verifico, documento e dichiaro i limiti di ogni analisi, convinta che un numero affidabile valga più di un grafico d'effetto. Grazie alle mie esperienze passate in contabilità e gestione documentale, ho sviluppato forte autonomia e precisione[cite: 3]. Sono attualmente disponibile per ruoli in ambito dati con predilezione per lo smart working.
